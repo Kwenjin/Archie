@@ -30,7 +30,7 @@ public class CheckResult : MonoBehaviour
                         spawner.GetComponent<RandomSpawner>().spawnObjects();
 					} else
 					{
-                        Debug.Log("Super, du hast " + solved + " Vergleiche richtig beantwortet!");
+                        Debug.Log("Super, du hast " + solved + " Aufgaben richtig gelöst!");
                         solved = 0;
                         spawner.GetComponent<RandomSpawner>().spawnObjects();
                     }

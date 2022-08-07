@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/MainMenu.unity
+    guid: 86fa3b45abc5ff4449e1b57058d0e3f6
+  - enabled: 1
+    path: Assets/Scenes/CompareFruits.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Game34Slap.unity
+    guid: c59dd9c24969c5f42909f04a06fa8cca
   m_configObjects: {}
