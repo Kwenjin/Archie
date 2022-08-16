@@ -15,4 +15,14 @@ public class gameSelection : MonoBehaviour
 		SceneManager.LoadScene("Game34Slap");
 	}
 
+	public void MenuArchie()
+	{
+		SceneManager.LoadScene("Archie");
+	}
+
+	public void MenuMain()
+	{
+		SceneManager.LoadScene("MainMenu");
+	}
+
 }
