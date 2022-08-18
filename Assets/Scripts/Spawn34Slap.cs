@@ -150,4 +150,11 @@ public class Spawn34Slap : MonoBehaviour
         }
     }
 
+    public void increaseSolCount()
+    {
+        if (beginSolCount < 9)
+        {
+            beginSolCount++;
+        }
+    }
 }
