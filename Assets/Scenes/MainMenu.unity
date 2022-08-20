@@ -2114,6 +2114,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerName: Marco
+  hatsFound: 0
+  glassesFound: 0
   hat: 0
   glasses: 0
   hatObject: {fileID: 543998009}
